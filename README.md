@@ -1,5 +1,5 @@
 # SSM_CRUD_2
-  基于Spirng、MyBatis和SpringMVC的小练习2
+  基于Spirng、MyBatis和SpringMVC的员工管理系统
   * 对SSM_CURD_DEMO做了小的修改
 ## 功能点
   * 增加登录验证
